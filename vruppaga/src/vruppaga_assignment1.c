@@ -1,6 +1,6 @@
 /**
- * @oviyaaba_assignment1
- * @author  oviyaa balamurugan <oviyaaba@buffalo.edu>
+ * @vruppaga_assignment1
+ * @author  Vaishnavi Ruppa Gangadharan <vruppaga@buffalo.edu>
  * @version 1.0
  *
  * @section LICENSE
